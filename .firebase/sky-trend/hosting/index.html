@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SkyTrend - Weather Web App</title>
+   
+    <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+<script>
+  console.log("Index")
+  window.OneSignalDeferred = window.OneSignalDeferred || [];
+  OneSignalDeferred.push(async function(OneSignal) {
+    await OneSignal.init({
+      appId: "bc4f7229-b263-4f40-967c-e8350bcd6e99",
+      safari_web_id: "web.onesignal.auto.201c9c11-2835-4563-82b9-55a6f9094e87",
+      notifyButton: {
+        enable: true
+      },
+      serviceWorkerParam: { scope: "/" },
+      serviceWorkerPath: "/sw.js",
+    });
+  });
+</script>
+    <script type="module" crossorigin src="/assets/index-D8KFs5TD.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-D6qplwZW.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
