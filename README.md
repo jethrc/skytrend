@@ -59,6 +59,6 @@ Proyek ini menggunakan lisensi MIT. Silakan baca file LICENSE untuk detail lebih
 
 # Kontak
 
-Jika Anda memiliki pertanyaan atau saran, jangan ragu untuk menghubungi kami melalui email: 21421414_antonius_o_j@widyadharma.ac.id@gmail.com atau kunjungi forum diskusi kami di GitHub.
+Jika Anda memiliki pertanyaan atau saran, jangan ragu untuk menghubungi kami melalui email: 21421414_antonius_o_j@widyadharma.ac.id atau kunjungi forum diskusi kami di GitHub.
 
 Terima kasih telah mengunjungi Skytrend! Semoga bermanfaat bagi Anda! 🌤️
