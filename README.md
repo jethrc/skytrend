@@ -57,8 +57,16 @@ git push origin nama-branch-anda
 
 Proyek ini menggunakan lisensi MIT. Silakan baca file LICENSE untuk detail lebih lanjut.
 
+
 # Kontak
 
 Jika Anda memiliki pertanyaan atau saran, jangan ragu untuk menghubungi kami melalui email: 21421414_antonius_o_j@widyadharma.ac.id atau kunjungi forum diskusi kami di GitHub.
 
 Terima kasih telah mengunjungi Skytrend! Semoga bermanfaat bagi Anda! 🌤️
+
+## Demo
+
+Lihat demo langsung dari Skytrend di [https://sky-trend.web.app](https://sky-trend.web.app).
+
+Jelajahi fitur-fitur cuaca terkini dan rencanakan aktivitas Anda dengan mudah!
+
